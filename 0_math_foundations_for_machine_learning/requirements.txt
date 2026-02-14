@@ -1,0 +1,6 @@
+numpy==1.26.4
+matplotlib==3.8.1
+sympy==1.13.0
+scipy==1.11.4
+jupyter==2.5.0
+nbconvert==7.7.0
